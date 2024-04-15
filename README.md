@@ -1,6 +1,6 @@
-# Random Font Assortment
+# Random Typeface Assortment
 
-**Random Font Assortment** is a collection of unfinished or unpublished typefaces made by me. Most typefaces here are created during my time (self-)studying type design.
+**Random Typeface Assortment** is a collection of unfinished or unpublished typefaces made by me. Most typefaces here are created during my time (self-)studying type design.
 
 ## History
 
