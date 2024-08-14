@@ -1,0 +1,28 @@
+Alloquot Font Expansion Plan:
+Weights [5] | Light 0%
+            | Regular 17%
+            | Medium 34%
+            | Bold 67%
+            | Black 100%
+===========================
+Widths [5]  | Condensed 0%
+            | SemiCondensed 25%
+            | Medium 50%
+            | SemiExpanded 75%
+            | Expanded 100%
+===========================
+Slants [2]  | Roman 0
+            | Italic 15 *PLANNED TO BE TRUE ITALIC*
+Total fonts - 50 FONTS
+
+LigCond -> BlckCond -> LigExpd -> BlckCond -> ...
+LigCond -> BlckCond -> LigCondIt -> BlckCondIt -> ...
+
+[Package 1] 20 Free
+= AllSmcd(It) ; AllMedm(It)
+[Package 2] 30 Paid ($1.50/$45.00)
+= AllCond(It) ; AllSmex(It) ; AllExpd(It)
+[Package 3] 15 Paid ($2.50/$37.50)
+= RegMedBldCond ; LigBlckCondIt ; RegMedBldSmex ; LigBlckSmexIt ; RegMedBldExpd ; LigBlckExpdIt
+[Package A] Individual Font Style ($5.00)
+[Full] 50 Styles ($1.50/$45.00)
