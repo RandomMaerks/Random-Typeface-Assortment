@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="opsz" name="opticalsize" minimum="16" maximum="90" default="90"/>
+  </axes>
+  <sources>
+    <source filename="BoltSans-Med.ufo" familyname="Bolt Sans" stylename="Macro">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="opticalsize" xvalue="90"/>
+      </location>
+    </source>
+    <source filename="BoltSansText-Med.ufo" familyname="Bolt Sans" stylename="Micro">
+      <location>
+        <dimension name="opticalsize" xvalue="16"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="BoltSans-Med" familyname="Bolt Sans" stylename="Macro" filename="instances/BoltSans-Med.ufo" stylemapfamilyname="Bolt Sans Macro" stylemapstylename="regular">
+      <location>
+        <dimension name="opticalsize" xvalue="90"/>
+      </location>
+    </instance>
+    <instance name="BoltSansText-Med" familyname="Bolt Sans" stylename="Micro" filename="instances/BoltSansText-Med.ufo" stylemapfamilyname="Bolt Sans Micro" stylemapstylename="regular">
+      <location>
+        <dimension name="opticalsize" xvalue="16"/>
+      </location>
+    </instance>
+  </instances>
+</designspace>
