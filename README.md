@@ -1,19 +1,27 @@
 # Random Typeface Assortment
 
-**Random Typeface Assortment** is a collection of unfinished or unpublished typefaces made by me. Most typefaces here are created during my time (self-)studying type design.
+**Random Typeface Assortment** is a collection of unfinished, experimental, and/or unpublished typefaces made by me. Most typefaces here are created during my time (self-)studying type design.
+
+Despite most of the typefaces here being under SIL, I highly encourage **NOT distributing these fonts anywhere**. These are **EXPERIMENTAL FONTS**, _not production-ready, full-fledged, commercial fonts_. If you want to use them, *do it at your own precaution*.
 
 ## History
 
 | Name | Creation date | Information |
 | --- | :---: | --- |
-| Grotesquerie | 15/06/2021 | My very first typeface using FontForge! Also marks the proper beginning of my type design journey. |
+| Grotesquerie | 15/06/2021 | My very first typeface using FontForge! Also marks the proper beginning of my type design journey. Inspired by (or stolen from...) ABC Dinamo's [Ginto](https://abcdinamo.com/typefaces/ginto). |
+| athels bold wip 2 | 19/08/2021 | A failed revision of Grotesquerie. |
 | Contemporarity | 19/09/2021 | Inspired by Google's Product Sans, I tried to make my own version. Didn't work out as much, and I really tried to turn it into a product, even though I still have little to no experience with type design. |
 | Connecto | 16/10/2021 | A funky experiment. |
-| Edgecutting Lite | 12/11/2021 | My first attempt at geometric sans. Inspired by Tom Watkins & Ellen Luff's [Aventa](https://www.behance.net/gallery/95404013/Aventa-Variable-Typeface).
+| Athels | 21/10/2021 | 'athels bold wip 2' but more complete and more personalised. |
+| Edgecutting Lite | 12/11/2021 | My first attempt at geometric sans. Inspired by Tom Watkins & Ellen Luff's [Aventa](https://www.behance.net/gallery/95404013/Aventa-Variable-Typeface). Somehow this typeface got added to [Dafont](https://www.dafont.com/edgecutting.font) in 2024, ≈2 years after submission. |
 | hiContr | 17/12/2021 | My first attempt at... high contrast typeface! |
 | Jygre | 05/03/2022 | An experiment with letterforms, but is still ordinary enough for most uses. |
 | Utilik | 20/03/2022 | A bitmap? typeface. |
 | Sundryent | 30/04/2022 | Inspired by Alex Slobzheninov's [Agrandir](https://pangrampangram.com/products/agrandir). |
 | Edgecutting | 07/07/2022 | A revision of Edgecutting Lite. |
 | Antique Grotesk | 26/07/2022 | An attempt at making those ugly af fonts. Not sure where I got inspired from, but it was inspired by something. |
+| Bolt Sans | 24/09/2022 | A mechanical sans-serif. Made to test FontLab trial version. Fine tuned with FontForge later on. |
+| Alloquot | 21/10/2022 | Condensed font. |
+| Generic Grotesk | 27/11/2022 | The undiscovered prequel to [Overused Grotesk](https://github.com/RandomMaerks/Overused-Grotesk). It is exactly what it says on the name. |
 | Grotv | 27/02/2023 | Meant to be a fully functional workhorse. I dropped it. |
+| Hebdomadal | 07/01/2024 | An on-going project in 2024 called 'Weekly Type Design' on Instagram where I design a glyph every week for 52 weeks in total. |
