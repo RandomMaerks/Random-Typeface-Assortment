@@ -2,7 +2,7 @@
 
 **Random Typeface Assortment** is a collection of unfinished, experimental, and/or unpublished typefaces made by me. Most typefaces here are created during my time (self-)studying type design.
 
-Despite most of the typefaces here being under SIL, I highly encourage **NOT distributing these fonts anywhere**. These are **EXPERIMENTAL FONTS**, _not production-ready, full-fledged, commercial fonts_. If you want to use them, *do it at your own precaution*.
+Despite most of the typefaces here being under OFL, I highly encourage **NOT distributing these fonts anywhere**. These are **EXPERIMENTAL FONTS**, _not production-ready, full-fledged, commercial fonts_. If you want to use them, *do it at your own precaution*.
 
 ## History
 
