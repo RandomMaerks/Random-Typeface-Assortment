@@ -2,7 +2,7 @@
 
 **Random Typeface Assortment** is a collection of unfinished, experimental, and/or unpublished typefaces made by me. Most typefaces here are created during my time (self-)studying type design.
 
-Despite most of the typefaces here being under OFL, I highly encourage **NOT distributing these fonts anywhere**. These are **EXPERIMENTAL FONTS**, _not production-ready, full-fledged, commercial fonts_. If you want to use them, *do it at your own precaution*.
+Despite most of the typefaces here being under OFL, I highly encourage **NOT distributing these fonts anywhere**. These are **EXPERIMENTAL FONTS**, _not production-ready, full-fledged, commercial fonts_. If you want to use them, *do it at your own risk*.
 
 ## History
 
@@ -24,4 +24,4 @@ Despite most of the typefaces here being under OFL, I highly encourage **NOT dis
 | Alloquot (21/10/2022) | Condensed font, for testing weights and italic. ![image](https://github.com/user-attachments/assets/07b6efda-7942-49f1-b203-00e7923fc2d1)|
 | Generic Grotesk (27/11/2022) | The undiscovered prequel to [Overused Grotesk](https://github.com/RandomMaerks/Overused-Grotesk). It is exactly what it says on the name. ![image](https://github.com/user-attachments/assets/3cb2e559-9f4c-41ef-af6e-08e176d4fe37)|
 | Grotv (27/02/2023) | Meant to be a fully functional workhorse. I dropped it. ![image](https://github.com/user-attachments/assets/67413d91-0919-44c0-943b-d071cd238df1)|
-| [Hebdomadal](https://github.com/RandomMaerks/Hebdomadal) (07/01/2024) | A project in 2024 called 'Weekly Type Design' on Instagram where I design one or two glyphs every week for 52 weeks in total. ![image](https://github.com/user-attachments/assets/4724c187-1049-4e81-a927-ab5723d12f49)|
+| Droide (15/09/2023) | A variable display/sans-serif typeface that transforms from smooth, curvy lines (Anthro) to rough, straight lines (Futur). A certain part of me, at a certain time, thought this was going to be a good idea. I completely forgot about it and never came back.|
