@@ -6,22 +6,32 @@ Despite most of the typefaces here being under OFL, I highly encourage **NOT dis
 
 ## History
 
+### ▶ Pre-FontForge era
+
 | Name & Creation date | Information |
 | --- | --- |
-| Grotesquerie (15/06/2021) | My very first typeface using FontForge! Also marks the proper beginning of my type design journey. Inspired by (or stolen from...) ABC Dinamo's [Ginto](https://abcdinamo.com/typefaces/ginto). ![image](https://github.com/user-attachments/assets/7c611b27-5bb3-4b73-acfc-da9872078122)|
-| athels bold wip 2 (19/08/2021) | A failed revision of Grotesquerie. ![image](https://github.com/user-attachments/assets/23dcf9ee-95db-47e7-bde6-bd7a08d32262)|
-| Contemporarity (19/09/2021) | Inspired by Google's Product Sans, I tried to make my own version. Didn't work out too well, and I really tried to turn it into a product, even though I still have little to no experience with type design. ![image](https://github.com/user-attachments/assets/6e3b9dad-6c88-46e4-aa91-6d02a871f2e6)|
-| Connecto (16/10/2021) | A funky experiment. ![image](https://github.com/user-attachments/assets/81a4c049-cc2d-4a34-9362-9d7c347368c8)|
-| Athels (21/10/2021) | 'athels bold wip 2' but more complete and more personalised. ![image](https://github.com/user-attachments/assets/50fa0e30-4f12-4deb-b163-32d19be4617e)|
-| Edgecutting Lite (12/11/2021) | My first attempt at geometric sans. Inspired by Tom Watkins & Ellen Luff's [Aventa](https://www.behance.net/gallery/95404013/Aventa-Variable-Typeface). Somehow this typeface got added to [Dafont](https://www.dafont.com/edgecutting.font) in 2024, ≈2 years after submission. ![image](https://github.com/user-attachments/assets/43b6ad8b-a5e7-4fdf-a79b-7868f1d048d1)|
-| hiContr (17/12/2021) | My first attempt at... high contrast typeface! ![image](https://github.com/user-attachments/assets/5324eb18-8eea-4497-8a50-89f54c7af87e) |
-| Jygre (05/03/2022) | An experiment with letterforms, but is still ordinary enough for most uses. ![image](https://github.com/user-attachments/assets/2733cd31-e820-4ccb-81cc-5153c17c2d05) |
-| Utilik (20/03/2022) | A bitmap(?) typeface. ![image](https://github.com/user-attachments/assets/cbc8415e-8644-494d-b678-28b12d051500) |
-| Sundryent (30/04/2022) | Inspired by Alex Slobzheninov's [Agrandir](https://pangrampangram.com/products/agrandir). ![image](https://github.com/user-attachments/assets/05024d4a-01d6-43cc-a00f-7a259626ab31) |
-| Edgecutting (07/07/2022) | A revision of Edgecutting Lite. ![image](https://github.com/user-attachments/assets/ebb91c62-ccc6-491b-9a55-6042a8db9a59) |
-| Antique Grotesk (26/07/2022) | An attempt at making those ugly af fonts. Not sure where I got inspired from, but it was inspired by something. ![image](https://github.com/user-attachments/assets/e1fdd6e4-bf6e-454c-a97f-2fb863caa5cc)|
-| Bolt Sans (24/09/2022) | A mechanical sans-serif. Made to test FontLab trial version. Fine tuned with FontForge later on. ![image](https://github.com/user-attachments/assets/595b90eb-fec8-4984-9acb-3f56e046979f)|
-| Alloquot (21/10/2022) | Condensed font, for testing weights and italic. ![image](https://github.com/user-attachments/assets/07b6efda-7942-49f1-b203-00e7923fc2d1)|
-| Generic Grotesk (27/11/2022) | The undiscovered prequel to [Overused Grotesk](https://github.com/RandomMaerks/Overused-Grotesk). It is exactly what it says on the name. ![image](https://github.com/user-attachments/assets/3cb2e559-9f4c-41ef-af6e-08e176d4fe37)|
-| Grotv (27/02/2023) | Meant to be a fully functional workhorse. I dropped it. ![image](https://github.com/user-attachments/assets/67413d91-0919-44c0-943b-d071cd238df1)|
-| Droide (15/09/2023) | A variable display/sans-serif typeface that transforms from smooth, curvy lines (Anthro) to rough, straight lines (Futur). A certain part of me, at a certain time, thought this was going to be a good idea. I completely forgot about it and never came back. <img width="1003" height="390" alt="image" src="https://github.com/user-attachments/assets/337a19bb-4b11-44f0-9d94-3c07a3d96d84" />|
+| Lights (13/01/2019) | My *actual* first font using paint.net and Calligraphr! <br> ![Lights](Lights/lights.png) |
+| Just Lines (13/01/2019) | ![Just_Lines](Just_Lines/li_nes.png) |
+| Amazing Shapes (13/01/2019) | ![Amazing_Shapes](Amazing_Shapes/amazing_shapes_text.png) |
+
+### ▶ FontForge era
+
+| Name & Creation date | Information |
+| --- | --- |
+| Grotesquerie (15/06/2021) | My very first typeface using FontForge! Also marks the proper beginning of my type design journey. Inspired by (or stolen from...) ABC Dinamo's [Ginto](https://abcdinamo.com/typefaces/ginto). <br> ![image](https://github.com/user-attachments/assets/7c611b27-5bb3-4b73-acfc-da9872078122)|
+| athels bold wip 2 (19/08/2021) | A failed revision of Grotesquerie. <br> ![image](https://github.com/user-attachments/assets/23dcf9ee-95db-47e7-bde6-bd7a08d32262)|
+| Contemporarity (19/09/2021) | Inspired by Google's Product Sans, I tried to make my own version. Didn't work out too well, and I really tried to turn it into a product, even though I still have little to no experience with type design. <br> ![image](https://github.com/user-attachments/assets/6e3b9dad-6c88-46e4-aa91-6d02a871f2e6)|
+| Connecto (16/10/2021) | A funky experiment. <br> ![image](https://github.com/user-attachments/assets/81a4c049-cc2d-4a34-9362-9d7c347368c8)|
+| Athels (21/10/2021) | 'athels bold wip 2' but more complete and more personalised. <br> ![image](https://github.com/user-attachments/assets/50fa0e30-4f12-4deb-b163-32d19be4617e)|
+| Edgecutting Lite (12/11/2021) | My first attempt at geometric sans. Inspired by Tom Watkins & Ellen Luff's [Aventa](https://www.behance.net/gallery/95404013/Aventa-Variable-Typeface). Somehow this typeface got added to [Dafont](https://www.dafont.com/edgecutting.font) in 2024, ≈2 years after submission. <br> ![image](https://github.com/user-attachments/assets/43b6ad8b-a5e7-4fdf-a79b-7868f1d048d1)|
+| hiContr (17/12/2021) | My first attempt at... high contrast typeface! <br> ![image](https://github.com/user-attachments/assets/5324eb18-8eea-4497-8a50-89f54c7af87e) |
+| Jygre (05/03/2022) | An experiment with letterforms, but is still ordinary enough for most uses. <br> ![image](https://github.com/user-attachments/assets/2733cd31-e820-4ccb-81cc-5153c17c2d05) |
+| Utilik (20/03/2022) | A bitmap(?) typeface. <br> ![image](https://github.com/user-attachments/assets/cbc8415e-8644-494d-b678-28b12d051500) |
+| Sundryent (30/04/2022) | Inspired by Alex Slobzheninov's [Agrandir](https://pangrampangram.com/products/agrandir). <br> ![image](https://github.com/user-attachments/assets/05024d4a-01d6-43cc-a00f-7a259626ab31) |
+| Edgecutting (07/07/2022) | A revision of Edgecutting Lite. <br> ![image](https://github.com/user-attachments/assets/ebb91c62-ccc6-491b-9a55-6042a8db9a59) |
+| Antique Grotesk (26/07/2022) | An attempt at making those ugly af fonts. Not sure where I got inspired from, but it was inspired by something. <br> ![image](https://github.com/user-attachments/assets/e1fdd6e4-bf6e-454c-a97f-2fb863caa5cc)|
+| Bolt Sans (24/09/2022) | A mechanical sans-serif. Made to test FontLab trial version. Fine tuned with FontForge later on. <br> ![image](https://github.com/user-attachments/assets/595b90eb-fec8-4984-9acb-3f56e046979f)|
+| Alloquot (21/10/2022) | Condensed font, for testing weights and italic. <br> ![image](https://github.com/user-attachments/assets/07b6efda-7942-49f1-b203-00e7923fc2d1)|
+| Generic Grotesk (27/11/2022) | The undiscovered prequel to [Overused Grotesk](https://github.com/RandomMaerks/Overused-Grotesk). It is exactly what it says on the name. <br> ![image](https://github.com/user-attachments/assets/3cb2e559-9f4c-41ef-af6e-08e176d4fe37)|
+| Grotv (27/02/2023) | Meant to be a fully functional workhorse. I dropped it. <br> ![image](https://github.com/user-attachments/assets/67413d91-0919-44c0-943b-d071cd238df1)|
+| Droide (15/09/2023) | A variable display/sans-serif typeface that transforms from smooth, curvy lines (Anthro) to rough, straight lines (Futur). A certain part of me, at a certain time, thought this was going to be a good idea. I completely forgot about it and never came back. <br> <img width="1003" height="390" alt="image" src="https://github.com/user-attachments/assets/337a19bb-4b11-44f0-9d94-3c07a3d96d84" />|
