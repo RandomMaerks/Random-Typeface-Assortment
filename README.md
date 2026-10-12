@@ -11,8 +11,8 @@ Despite most of the typefaces here being under OFL, I highly encourage **NOT dis
 | Name & Creation date | Information |
 | --- | --- |
 | Lights (13/01/2019) | My *actual* first font using paint.net and Calligraphr! <br> ![Lights](Lights/lights.png) |
-| Just Lines (13/01/2019) | ![Just_Lines](Just_Lines/li_nes.png) |
-| Amazing Shapes (13/01/2019) | ![Amazing_Shapes](Amazing_Shapes/amazing_shapes_text.png) |
+| Just Lines (13/01/2019) | ![Just Lines](Just%20Lines/li_nes.png) |
+| Amazing Shapes (13/01/2019) | ![Amazing Shapes](Amazing%20Shapes/amazing_shapes_text.png) |
 
 ### ▶ FontForge era
 
