@@ -8,6 +8,8 @@ Despite most of the typefaces here being under OFL, I highly encourage **NOT dis
 
 ### ▶ Pre-FontForge era
 
+> These are fonts from a distant past when the idea of backing up projects and keeping them hasn't held any significance to my tiny peanut brain. There only exist screenshots which I shared with other people. The font files themselves are lost to time.
+
 | Name & Creation date | Information |
 | --- | --- |
 | Lights (13/01/2019) | My *actual* first font using paint.net and Calligraphr! <br> ![Lights](Lights/lights.png) |
